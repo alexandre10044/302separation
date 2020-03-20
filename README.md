@@ -13,7 +13,9 @@ Starting with a file that contains a list of friendship links between different 
 If two names are given as argument to the program, it must instead display the degree of separation be-tween those two people, or -1 if they are not connected.
 
 
-USAGE./302separation file [n | p1 p2]
+USAGE
+
+./302separation file [n | p1 p2]
 
 DESCRIPTION
 
